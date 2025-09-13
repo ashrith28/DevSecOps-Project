@@ -14,7 +14,7 @@
   <p align="center">Home Page</p>
 </div>
 
-DevSecOps Project
+DevSecOps Project!
 A full-stack DevSecOps implementation showcasing automated CI/CD, security scanning, containerization & monitoring for a web application.
 
 Features include:
