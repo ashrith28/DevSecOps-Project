@@ -746,5 +746,54 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 
 **Phase 7: Cleanup**
 
-1. **Cleanup AWS EC2 Instances:**
-    - Terminate AWS EC2 instances that are no longer needed.
+**Cleanup AWS EC2 Instances:**
+  - Terminate AWS EC2 instances that are no longer needed.
+
+  👨‍💻 Author
+
+Ashrith
+GitHub: ashrith28
+
+
+Credits : https://github.com/N4si
+
+Here are the some screenshots of this project
+
+<img width="1854" height="1012" alt="Jenkins-pipelines" src="https://github.com/user-attachments/assets/c13e6168-c1a4-4917-9003-5753fd8de13a" />
+
+
+<img width="1854" height="1009" alt="sonar" src="https://github.com/user-attachments/assets/93848aad-c7fc-4a27-bcc1-861301152070" />
+
+
+<img width="1845" height="995" alt="Gmail- Trivy fs report" src="https://github.com/user-attachments/assets/5a45c726-163c-4699-8319-a1a2a3fef5e7" />
+
+
+<img width="1912" height="747" alt="image" src="https://github.com/user-attachments/assets/e59dac1e-d848-440d-91f6-6eb814dd61f1" />
+
+
+<img width="1854" height="1048" alt="Screenshot from 2025-09-13 17-09-46" src="https://github.com/user-attachments/assets/c18521d6-572a-4e24-8b99-8dec46cb2682" />
+
+
+
+<img width="1854" height="1012" alt="prometheus" src="https://github.com/user-attachments/assets/52d2d496-4fe1-4453-a20d-0eeed12d393c" />
+
+
+<img width="1854" height="1012" alt="grafana" src="https://github.com/user-attachments/assets/2003ab9b-0c32-40c2-8fec-46867a6c630c" />
+
+
+<img width="886" height="824" alt="Screenshot from 2025-09-13 16-30-34" src="https://github.com/user-attachments/assets/7096b617-af73-4b97-b80e-c06cbfb02af0" />
+
+
+<img width="959" height="1090" alt="Screenshot from 2025-09-13 16-59-22" src="https://github.com/user-attachments/assets/481865b0-d8d9-4520-afae-be3656e691a9" />
+
+
+<img width="1854" height="1048" alt="Screenshot from 2025-09-13 17-10-30" src="https://github.com/user-attachments/assets/9626cfbf-01d3-4a5d-b79e-6b5aaca99e51" />
+
+
+<img width="1854" height="1048" alt="Screenshot from 2025-09-13 17-09-12" src="https://github.com/user-attachments/assets/2f979dcd-ea62-4558-9281-2c2218253a8e" />
+
+
+<img width="1852" height="1005" alt="Netflix-home page 2" src="https://github.com/user-attachments/assets/9c4d99e0-dfb3-48aa-a6e2-c4e4185df211" />
+
+
+<img width="1854" height="1006" alt="Netflix-home page" src="https://github.com/user-attachments/assets/0ef6244a-e244-41ad-bee0-1c49f3c0ee04" />
