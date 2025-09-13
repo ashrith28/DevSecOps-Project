@@ -14,6 +14,22 @@
   <p align="center">Home Page</p>
 </div>
 
+DevSecOps-Project
+A full-stack DevSecOps implementation showcasing automated CI/CD, security scanning, containerization & monitoring for a web application.
+
+Features include:
+
+Deployment of a sample app on AWS EC2 using Docker.
+
+Automated code quality & security checks using SonarQube and Trivy.
+
+CI/CD pipelines in Jenkins integrating dependency checking, vulnerability scanning, image build/push & deployment.
+
+Monitoring stack with Prometheus + Grafana for metrics & dashboards.
+
+Phases of DevSecOps: setup → security → pipeline → monitoring → notifications → optionally Kubernetes deployment.
+
+
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
 ### **Phase 1: Initial Setup and Deployment**
